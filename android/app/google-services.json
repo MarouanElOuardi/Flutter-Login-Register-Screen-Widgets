@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372069346669",
+    "project_id": "flutterpubliceye",
+    "storage_bucket": "flutterpubliceye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372069346669:android:17be424a93e9f5df98be64",
+        "android_client_info": {
+          "package_name": "com.example.fireshipapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEprSbmqvtl4D7Xtd9zBZJcRDCl1ce6bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
